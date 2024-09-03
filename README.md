@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nikita Tkachenko
-- 👀 I’m interested in 
+- 👀 I’m interested in volounteer activities
 - 🌱 I’m currently learning ВГТУ
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "dunno"
-- 😄 Pronouns: He
+- 💞️ I’m looking to collaborate on something, but I have no ideas yet! Propose them to me!
+- 📫 How to reach me: "dunno"
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Ohhhhhhh i'm learning in beautiful university ВГТУ.
 
 <!---
